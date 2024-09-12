@@ -21,7 +21,7 @@ This is a **responsive personal website** created as part of my final project co
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple-profile-html.git
+   git clone https://github.com/Eugenewijaya/simple-profile-html.git
    ```
 
 2. Open the `index.html` file in your preferred browser.
